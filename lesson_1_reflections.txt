@@ -1,0 +1,6 @@
+It helps to bring the file back to a version when it worked fine.
+ And then make changes from that point on.
+ This helps in resetting to a working condition.
+
+Having access to previous revisions helps us see how the file has changed over time or who has made changes to it.
+This helps us figure where a mistake was made.
